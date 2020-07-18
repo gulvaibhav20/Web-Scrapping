@@ -1,0 +1,2 @@
+This text file is here to include the Images Folder in git repository.
+If "Images" folder is not present in the Image Scrapping Project, the Notebook will throw an error while saving the images.
